@@ -57,7 +57,7 @@ function App() {
               <span className="title-icon">⚡</span>
               Optimized Code Generator
             </h1>
-            <p className="subtitle">Generate high-quality, efficient code in your favorite programming language.</p>
+            <p className="subtitle">Generate high-quality, efficient code in your favourite programming language.</p>
           </header>
 
           <form onSubmit={handleSubmit} className="form-container">
