@@ -4,7 +4,7 @@
 The **Optimized Code Generator** is a 2-tier application designed to generate high-quality, efficient code based on user-provided descriptions, time complexity, and programming language preferences. This project utilizes advanced AI models for code generation, integrating a user-friendly React frontend, a Flask backend API, and deep learning models like **CodeLLaMA** powered by **CTransformers**.
 
 ## Features
-- **Frontend**:
+- **Frontend Development**:
   - React-based user interface.
   - Input fields for code description, desired time complexity, and programming language.
   - Displays the generated code.
